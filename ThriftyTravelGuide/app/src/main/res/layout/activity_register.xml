@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Register"
+    android:background="@drawable/registerback">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:height="100dp"
+        android:textStyle="bold|italic"
+        android:textSize="40dp"
+        android:background="@drawable/registrationlogo"
+        android:gravity="center"/>
+
+    <EditText
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:hint="Enter your Name"
+        android:textColor="@color/black"
+        android:textColorHint="@color/black"
+        android:textSize="20dp"
+        android:id="@+id/username"/>
+
+    <EditText
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/password"
+        android:textColorHint="@color/black"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:hint="Choose a Password"/>
+
+
+    <EditText
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:textColorHint="@color/black"
+        android:textSize="20dp"
+        android:id="@+id/dob"
+        android:hint="Enter your Date of Birth"/>
+
+    <EditText
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="25dp"
+        android:textColorHint="@color/black"
+        android:textColor="@color/black"
+        android:id="@+id/email"
+        android:hint="Enter your Email"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="50dp">
+
+
+
+    <ImageButton
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:id="@+id/register"
+        android:background="@drawable/register"
+        android:layout_marginStart="2dp"/>
+
+        <ImageButton
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:id="@+id/cancel"
+            android:background="@drawable/cancel"
+            android:layout_marginStart="2dp"/>
+
+    </LinearLayout>
+
+</LinearLayout>

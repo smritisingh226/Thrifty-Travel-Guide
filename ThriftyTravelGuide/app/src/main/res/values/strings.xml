@@ -1,0 +1,148 @@
+<resources>
+    <string name="app_name">Thrifty Travel Guide</string>
+    <string name="title_activity_screen2">Screen2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="weatherindia">India can be divided into a number of regions.  For the most part, the country has a tropical climate which throughout
+        most of the interior is a mixture of wet and dry tropical weather.  In northern parts there is a humid tropical climate and along the western
+        coast lies wet tropical areas.  Stretching in a strip up the centre of the country is a semi-arid climate, which also stretches across the
+        north-west.  Although stereotypical images may bring to mind the heat of India, the country can also experience extreme cold.  This takes place
+        largely in the northern mountainous regions which include the cold, arid and windswept Himalayas.</string>
+
+    <string name="parisweather">In Paris, the summers are short, comfortable, and partly cloudy and the winters are very cold, windy, and mostly cloudy.
+        Over the course of the year, the temperature typically varies from 2 °C to 25 °C and is rarely below -4 °C or above 31 °C.</string>
+
+    <string name="canadaweather">The northern part of Canada is extremely cold, with summer lasting less than two months, but almost all Canadians live
+        near the southern border where the weather is warmer.Vancouver, on Canada’s west coast, is rainy and temperate. It rarely snows except in the
+        mountains. High temperatures in summer are around 72°F and in winter around 45°F. It rains in Vancouver almost half the days in winter but much
+        the summer has more sunshine. Toronto, the climate is continental. Winters are cold and snowy. Summers are warm and humid. High temperatures in
+        summer are around 79°F and in winter 32°F. It rains on average 7 days a month year-round. It is a good idea to check the climate in the area you’ll
+        be visiting first.</string>
+
+
+    <string name="australiaweather">Climate varies greatly throughout the eight states and territories; there are four seasons across most of
+        the country and a wet and dry season in the tropical north. seasons are at opposite times to those in the northern hemisphere. December to February
+        is summer; March to May is autumn; June to August is winter; and September to November is spring. </string>
+
+
+    <string-array name="attractionscanada">
+        <item>Niagara Falls, Toronto</item>
+        <item>Parliament Hill, Ottawa</item>
+        <item>CN Tower, Toronto</item>
+        <item>Banff National, Alberta</item>
+        <item>The Park Rocky Mountains, Alberta</item>
+        <item>Old Quebec</item>
+        <item>Whistler</item>
+        <item>Old Montreal</item>
+        <item>Polar Bears of Churchill, Manitoba</item>
+        <item>Vancouver Island</item>
+        <item>Bay of Fundy</item>
+    </string-array>
+
+    <string-array name="amusttrycanada">
+        <item>Poutine</item>
+        <item>Bannock</item>
+        <item>Butter tarts</item>
+        <item>Nova Scotian Lobster Rolls</item>
+        <item>Montreal-style Bagels</item>
+        <item>Saskatoon berry pie</item>
+        <item>Montreal-style Smoked Meat</item>
+        <item>Split Pea Soup</item>
+        <item>Caesar Cocktail</item>
+        <item>Game Meat</item>
+        <item>Nanaimo Bars</item>
+    </string-array>
+
+    <string-array name="amusttryparis">
+        <item>Fresh Bread From The Boulangerie</item>
+        <item>Eclairs</item>
+        <item>Baguettes</item>
+        <item>Croissants</item>
+        <item>Macarons</item>
+        <item>French Cheese</item>
+        <item>Oysters</item>
+        <item>Falafel</item>
+        <item>Couscous</item>
+        <item>Steak Frites</item>
+        <item>Duck Confit</item>
+    </string-array>
+
+    <string-array name="indiamusttry">
+        <item>Masala dosa</item>
+        <item>Chaat</item>
+        <item>Dal makhani</item>
+        <item>Vada pav</item>
+        <item>Stuffed paratha</item>
+        <item>Dhokla</item>
+        <item>Barfi</item>
+        <item>Pani puri</item>
+        <item>Idli</item>
+        <item>Masala chai</item>
+        <item>Butter Chicken</item>
+    </string-array>
+
+
+    <string-array name="indiaattractions">
+        <item>The Taj Mahal, Agra</item>
+        <item>The Holy City of Varanasi</item>
+        <item>Harmandir Sahib: Golden Temple of Amritsar</item>
+        <item>The Golden City: Jaisalmer</item>
+        <item>The Red Fort, New Delhi</item>
+        <item>Mumbai: The Gateway of India</item>
+        <item>Mecca Masjid, Hyderabad</item>
+        <item>Amer Fort, Jaipur</item>
+        <item>The Beaches of Goa</item>
+        <item>The Ellora Caves, Aurangabad</item>
+        <item>Mysore Palace</item>
+    </string-array>
+
+    <string-array name="parisattractions">
+        <item>Eiffel Tower, France</item>
+        <item>Musee du Louvre</item>
+        <item>Cathédrale Notre-Dame de Paris</item>
+        <item>Avenue des Champs-Elysées</item>
+        <item>Musée d Orsay</item>
+        <item>Palais Garnier, Opera National de Paris</item>
+        <item>Place de la Concorde</item>
+        <item>Arc de Triomphe</item>
+        <item>Seine River Cruises</item>
+        <item>Musical Concerts at Sainte-Chapelle</item>
+        <item>Bustling Boulevards and Legendary Cafes</item>
+    </string-array>
+
+    <string-array name="australiaattractions">
+        <item>Sydney Opera House, New South Wales</item>
+        <item>Great Barrier Reef Marine Park, Queensland</item>
+        <item>Uluru-Kata Tjuta National Park, Northern Territory</item>
+        <item>Sydney Harbour Bridge, New South Wales</item>
+        <item>Blue Mountains National Park, New South Wales</item>
+        <item>Melbourne Culture, Victoria</item>
+        <item>Bondi Beach, New South Wales</item>
+        <item>Daintree National Park, Queensland</item>
+        <item>K Gari Fraser Island, Queensland</item>
+        <item>The Ellora Caves, Aurangabad</item>
+        <item>Kakadu National Park, Northern Territory</item>
+    </string-array>
+
+    <string-array name="australiamusttry">
+        <item>Vegemite</item>
+        <item>Fairy Bread</item>
+        <item>Tim Tams!</item>
+        <item>Meat Pies</item>
+        <item>Anzac Biscuits</item>
+        <item>Chicken Parma AKA Chicken Parmigiana</item>
+        <item>Pavlova</item>
+        <item>Witchetty Grub</item>
+        <item>BBQs</item>
+        <item>Kangaroo</item>
+        <item>Lamingtons</item>
+    </string-array>
+</resources>
